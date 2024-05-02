@@ -1,0 +1,3 @@
+# Threads em C#
+
+Projeto acadêmico em **C#** da matéria de Sistemas Operacionais com o objetivo de aprender o funcionamento de **Threads**. O programa implementa a evacuação de um ambiente utilizando threads, onde neste ambiente existe pessoas e portas. As pessoas percorrem o ambiente de maneira aleatória, não ocupando a mesma posição ao mesmo tempo, durante um limite de tempo. Quando o limite de tempo é atingido, as pessoas irão sair pelas portas disponíveis, de maneira que apenas uma pessoa saia por vez pela porta. A quantidade de pessoas e de portas, o tamanho do ambiente e o tempo limite (em **ms**) são passados pelo usuário antes da execução do programa.
